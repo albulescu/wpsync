@@ -1,0 +1,2 @@
+# wpsync
+WordPress Synchronisation Tool
